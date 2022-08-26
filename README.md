@@ -1,3 +1,5 @@
+# Opinion Twitter Bot
+
 This project is a Twitter bot meant to generate retweets to opinionated tweets that reflect a certain point of view on something. This is achieved by training a natural language generation neural network on tweets retrieved via the twitter API. The user can then input tweets which are analyzed for their sentiment and for predefined keywords and can choose between automatically generated responses which will then be posted to Twitter.
 
 ## Setup
